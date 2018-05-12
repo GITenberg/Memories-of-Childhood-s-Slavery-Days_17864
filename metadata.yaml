@@ -1,0 +1,27 @@
+_repo: Memories-of-Childhood-s-Slavery-Days_17864
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burton, Annie L.
+    gutenberg_agent_id: '7661'
+    url: http://www.gutenberg.org/2009/agents/7661
+description: ''
+gutenberg_issued: '2006-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17864'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Slaves'' writings, American'
+- !lcsh 'Burton, Annie L., 1858?-'
+- !lcsh 'Slaves -- United States -- Biography'
+title: Memories of Childhood's Slavery Days
+url: http://www.gutenberg.org/ebooks/17864
